@@ -57,7 +57,7 @@ func (g *WorkExperience) Analyze(tag *Tag) CVGroup {
 		})
 	section[key] = content
 
-	fmt.Println(section)
+	//fmt.Println(section)
 	group.Items = make([][]CVItem, len(section))
 	groupIndex:=0
 	for k, v := range section {
@@ -112,25 +112,6 @@ func findKeyWord(start int, position int, content []rune, words map[rune][][]run
 		}
 		position++
 	}
-
-
-	//
-	//	newRow:=0
-	//	start = position
-	//	fmt.Println("=================")
-	//	for position<len(content){
-	//		if content[position]==10{
-	//			newRow++
-	//		}
-	//
-	//		if position<len(content) && binSearch(spaceSymbol,content[position]){
-	//			aa:=string(content[start:position])
-	//			fmt.Println("row,aa=",newRow,",",aa)
-	//			start=position
-	//			start++
-	//		}
-	//		position++
-	//	}
 	return "-"
 }
 
