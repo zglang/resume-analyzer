@@ -8,7 +8,7 @@ var unNameTags []rune = []rune{9, 10, 13, 32, 124}
 
 func matchName(position int, text []rune, cv *Resume) int {
 	for _,t := range cv.Items{
-		if t.Name == TagList[0] && t.Name != "" {
+		if t.Name == TagList[0] && t.Value != "" {
 			return position
 		}
 	}
@@ -50,7 +50,6 @@ func matchName(position int, text []rune, cv *Resume) int {
 		newLine = false
 
 	}
-
 	return position
 }
 
@@ -58,7 +57,7 @@ var dateTags []rune = []rune{32, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56,
 
 func matchDate(position int, text []rune, cv *Resume) int {
 	for _,t := range cv.Items{
-		if t.Name == TagList[2] && t.Name != "" {
+		if t.Name == TagList[2] && t.Value != "" {
 			return position
 		}
 	}
@@ -69,6 +68,7 @@ func matchDate(position int, text []rune, cv *Resume) int {
 		for binSearch(dateTags, text[position]) {
 			if text[position] == 32 && i == 0 {
 				break
+
 			}
 			position++
 			i++
