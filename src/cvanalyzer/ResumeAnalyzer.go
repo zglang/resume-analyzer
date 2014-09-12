@@ -25,7 +25,7 @@ func startWeb() {
 
 func devTest() {
 	analysis.InitConf()
-	resume := analysis.Analysis(analysis.Read("111.txt"))
+	resume := analysis.Analysis(analysis.Read("resumes/222.txt"))
 	fmt.Println(resume)
 //	fmt.Println([]rune("个人"))
 //	fmt.Println([]rune("简历"))
