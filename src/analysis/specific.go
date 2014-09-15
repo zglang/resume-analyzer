@@ -6,11 +6,21 @@ import (
 
 var unNameTags []rune = []rune{9, 10, 13, 32, 124}
 
-func matchName(position int, text []rune, cv *Resume) int {
-	for _,t := range cv.Items{
-		if t.Name == TagList[0] && t.Value != "" {
-			return position
+func haveTag(tagIndex int,items []CVItem ) bool{
+	for _,t := range items{
+		if t.Name == TagList[tagIndex]{
+			if  t.Value != "" {
+				return true
+			}
+			break
 		}
+	}
+	return false
+}
+
+func matchName(position int, text []rune, cv *Resume) int {
+	if haveTag(0,cv.Items){
+		return position
 	}
 
 	newLine := true
@@ -56,10 +66,8 @@ func matchName(position int, text []rune, cv *Resume) int {
 var dateTags []rune = []rune{32, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 24180, 26085, 26376}
 
 func matchDate(position int, text []rune, cv *Resume) int {
-	for _,t := range cv.Items{
-		if t.Name == TagList[2] && t.Value != "" {
-			return position
-		}
+	if haveTag(2,cv.Items){
+		return position
 	}
 	for position < len(text) {
 		start := position
