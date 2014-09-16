@@ -24,7 +24,7 @@ func startWeb() {
 
 func devTest() {
 	analysis.InitConf()
-	resume := analysis.Analysis(analysis.Read("resumes/111.txt"))
+	resume := analysis.Analysis(analysis.Read("resumes/333.txt"))
 	fmt.Println(resume)
 //	fmt.Println([]rune("个人"))
 //	fmt.Println([]rune("简历"))
@@ -88,7 +88,7 @@ func main() {
 //公司性质：
 //中外合营(合资·合作)`)
 //	fmt.Println(aaa)
-	fmt.Println([]rune("()（）"))
+	fmt.Println([]rune("09AZaz"))
 }
 
 

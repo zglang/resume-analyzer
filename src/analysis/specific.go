@@ -73,9 +73,13 @@ func matchDate(position int, text []rune, cv *Resume) int {
 		start := position
 
 		i := 0
+		dtag:=0
 		for binSearch(dateTags, text[position]) {
 			if text[position] == 32 && i == 0 {
 				break
+			}
+			if text[position]<48 || text[position]>57{
+				dtag++
 			}
 			if i == 0 && position-1 >= 0 && binSearch(spaceSymbol, text[position-1]) {
 				position++
@@ -87,9 +91,10 @@ func matchDate(position int, text []rune, cv *Resume) int {
 				position++
 				i++
 			}
+
 		}
 		if i > 0 {
-			if position-start > 5 && position-start < 12 {
+			if position-start > 5 && position-start < 12 && dtag>0{
 				cv.Items = append(cv.Items, CVItem{TagList[2], string(text[start:position])})
 				//break
 			}
