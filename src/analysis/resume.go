@@ -51,7 +51,7 @@ func Analysis(content string) Resume {
 		}
 	}
 	matchName(0, codingBody[:150], &cv)
-
+	matchMobile(0, codingBody[:200], &cv)
 	matchDate(0, codingBody[0:200], &cv)
 	return cv
 }

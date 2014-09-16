@@ -6,7 +6,6 @@ import (
 	"net/http"
 	"controller"
 	"time"
-	"strings"
 )
 
 func startWeb() {
@@ -29,10 +28,10 @@ func devTest() {
 	fmt.Println(resume)
 //	fmt.Println([]rune("个人"))
 //	fmt.Println([]rune("简历"))
-	upper:="ABCDEFGHIJKLMNOPQRSTYWLXYZ"
-	fmt.Println([]rune(upper))
-	fmt.Println([]rune(strings.ToLower(upper)))
-
+	//upper:="ABCDEFGHIJKLMNOPQRSTYWLXYZ"
+	//fmt.Println([]rune(upper))
+	//fmt.Println([]rune(strings.ToLower(upper)))
+	fmt.Println([]rune("019-, "))
 //	analysis.ContainForRune([]rune("个人简历"),[]rune("人简"))
 //	analysis.ContainForRune([]rune("个人简历"),[]rune("个人"))
 //	analysis.ContainForRune([]rune("个人简历"),[]rune("个人"))
