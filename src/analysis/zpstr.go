@@ -139,19 +139,19 @@ func buildNewTag(tag []rune) []rune {
 	}
 	return clearTagSuffix(newTag)
 }
-
+//12290:46,  .
 var replaceMap map[rune]rune = map[rune]rune{
-	65288:40, 65289:41, 12290:46,
+	65288:40, 65289:41,
 	12288:32, 65306:58, 65372:124,
 	11:10, 160:32, 8226:47, 7:10, 12:10, 13:10, 8211:45, 8212:45}
 
-func initReplaceMap(){
-	upper:="ABCDEFGHIJKLMNOPQRSTYWLXYZ"
-	lower:=strings.ToLower(upper)
-	letter1:=[]rune(upper)
-	letter2:=[]rune(lower)
-	for i:=0;i<len(letter1);i++{
-		replaceMap[letter1[i]]=letter2[i]
+func initReplaceMap() {
+	upper := "ABCDEFGHIJKLMNOPQRSTYWLXYZ"
+	lower := strings.ToLower(upper)
+	letter1 := []rune(upper)
+	letter2 := []rune(lower)
+	for i := 0; i < len(letter1); i++ {
+		replaceMap[letter1[i]] = letter2[i]
 	}
 }
 
@@ -216,18 +216,18 @@ func RuneIndex(s []rune, sub []rune) (int, int) {
 
 
 func ContainForRune(items []rune, item []rune) bool {
-//	fmt.Println("item=",item)
-//	fmt.Println("items=",items)
-	start:=item[0]
-	contain:=false
-	for i:=0;i<len(items);i++{
-		if items[i] == start{
-			if len(items)-i < len(item){
+	//	fmt.Println("item=",item)
+	//	fmt.Println("items=",items)
+	start := item[0]
+	contain := false
+	for i := 0; i < len(items); i++ {
+		if items[i] == start {
+			if len(items)-i < len(item) {
 				return false
 			}
-			contain=true
-			for j:=0;j<len(item);j++{
-				if item[j]!=items[j+i]{
+			contain = true
+			for j := 0; j < len(item); j++ {
+				if item[j] != items[j+i] {
 					contain = false
 					break
 				}
@@ -240,6 +240,66 @@ func ContainForRune(items []rune, item []rune) bool {
 	//fmt.Println("contain=",contain)
 	return contain
 }
+
+func ClearHtmlTag(content []rune) []rune {
+	text := make([]rune, 0)
+
+	stack := make([]rune, 0)
+
+	//fmt.Println("init stack=",len(stack))
+
+	for _, i := range (content) {
+
+		switch {
+		case i == 60:
+			stack = append(stack, i)
+
+		case i == 62:
+			//fmt.Println("62 then=",len(stack))
+			stack = append(stack, i)
+			isBr:=false
+			//fmt.Println(stack,",",string(stack))
+			for _,tag:=range(brTags){
+				//fmt.Println(tag,",",string(tag))
+				if ContainForRune(stack,tag){
+
+					isBr=true
+					break
+				}
+			}
+			stack = append(stack[:0],stack[len(stack):]...)
+
+			//fmt.Println("62 then=",len(stack))
+			if isBr{
+				text = append(text, 10)
+			}else{
+				text = append(text, 32)
+			}
+		default:
+			//fmt.Println(i,",",len(stack))
+			if len(stack) > 0 {
+				stack = append(stack, i)
+
+			}else {
+				text = append(text, i)
+			}
+		}
+
+	}
+	if len(stack) > 0 {
+		text = append(text, stack...)
+	}
+
+	return text
+}
+
+
+//br
+///p
+///div
+
+
+
 
 //func clearContent(content []rune) []rune{
 //

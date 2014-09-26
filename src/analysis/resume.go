@@ -19,7 +19,7 @@ type Resume struct {
 
 func Analysis(content string) Resume {
 	fmt.Println("++++++++++[start]+++++++++++")
-	codingBody := formatContent([]rune(content))
+	codingBody := formatContent(ClearHtmlTag([]rune(content)))
 	position := 0
 	var tags []Tag
 	for position < len(codingBody) {
@@ -51,8 +51,9 @@ func Analysis(content string) Resume {
 		}
 	}
 	matchName(0, codingBody[:150], &cv)
-	matchMobile(0, codingBody[:200], &cv)
-	matchDate(0, codingBody[0:200], &cv)
+	matchMobile(0, codingBody[:300], &cv)
+	matchDate(0, codingBody[0:300], &cv)
+	matchEmail(0, codingBody[0:300], &cv)
 	return cv
 }
 

@@ -16,4 +16,5 @@ func InitConf() {
 	initGroupProcessor()
 	initPosition()
 	initIndustry()
+	initBrTags()
 }

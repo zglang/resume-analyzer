@@ -63,7 +63,7 @@ func matchName(position int, text []rune, cv *Resume) int {
 	return position
 }
 
-var dateTags []rune = []rune{32, 45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 24180, 26085, 26376}
+var dateTags []rune = []rune{32, 10,45, 46, 47, 48, 49, 50, 51, 52, 53, 54, 55, 56, 57, 24180, 26085, 26376}
 
 func matchDate(position int, text []rune, cv *Resume) int {
 	if haveTag(2, cv.Items) {
@@ -74,7 +74,7 @@ func matchDate(position int, text []rune, cv *Resume) int {
 
 		i := 0
 		dtag:=0
-		for binSearch(dateTags, text[position]) {
+		for position < len(text) && binSearch(dateTags, text[position]) {
 			if text[position] == 32 && i == 0 {
 				break
 			}
@@ -115,7 +115,7 @@ func matchMobile(position int, text []rune, cv *Resume) int {
 		start := position
 		if text[position] >= 48 && text[position] <= 57 {
 			if position-1 >= 0 && binSearch(spaceSymbol, text[position-1]) {
-				for text[position] >= 32 && text[position] <= 57 {
+				for position<len(text) && text[position] >= 32 && text[position] <= 57 {
 
 					position++
 					findNum++
@@ -126,10 +126,42 @@ func matchMobile(position int, text []rune, cv *Resume) int {
 			}
 		}
 		if findNum >= 7 && findNum <= 16 {
+
 			if text[position-1] < 48 || text[position-1] > 57 {
 				position--
 			}
-			cv.Items = append(cv.Items, CVItem{TagList[8], string(text[start:position])})
+			if position+1<len(text){
+				if text[position+1]<48 || text[position+1] > 57 {
+					cv.Items = append(cv.Items, CVItem{TagList[8], string(text[start:position])})
+				}
+			}else{
+				cv.Items = append(cv.Items, CVItem{TagList[8], string(text[start])})
+			}
+
+		}
+		position++
+	}
+	return position
+}
+
+
+func matchEmail(position int, text []rune, cv *Resume) int {
+	if haveTag(9, cv.Items) {
+		return position
+	}
+	for position < len(text) {
+		if text[position] == 64{
+			start:=position-1
+			end:=position+1
+			for !binSearch(spaceSymbol, text[end]){
+				end++
+			}
+			for !binSearch(spaceSymbol, text[start]){
+				start--
+			}
+
+			cv.Items = append(cv.Items, CVItem{TagList[9], string(text[start+1:end])})
+			return end
 		}
 		position++
 	}
