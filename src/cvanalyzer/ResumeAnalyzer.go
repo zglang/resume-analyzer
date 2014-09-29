@@ -24,7 +24,7 @@ func startWeb() {
 
 func devTest() {
 	analysis.InitConf()
-	resume := analysis.Analysis(analysis.Read("resumes/777.txt"))
+	resume := analysis.Analysis(analysis.Read("resumes/888.txt"))
 	fmt.Println(resume)
 //	fmt.Println([]rune("个人"))
 //	fmt.Println([]rune("简历"))
@@ -89,11 +89,13 @@ func main() {
 //中外合营(合资·合作)`)
 //	fmt.Println(aaa)
 //	fmt.Println([]rune("</>"))
-	content:="<html>laowei</html>ll<span>11<div>jfjdsf</div>11111<span>fd2222sfdsf<li>33333</br>f44444dsfdsf"
-	fmt.Println(content)
-	bb:=analysis.ClearHtmlTag([]rune(content))
-	fmt.Println(string(bb))
-	fmt.Println([]rune("@"))
+//	content:="<html>laowei</html>ll<span>11<div>jfjdsf</div>11111<span>fd2222sfdsf<li>33333</br>f44444dsfdsf"
+//	fmt.Println(content)
+//	bb:=analysis.ClearHtmlTag([]rune(content))
+
+	fmt.Println([]rune("()（）"))
+	fmt.Println(string([]rune{40}))
+	//fmt.Println(32>>7)
 }
 
 

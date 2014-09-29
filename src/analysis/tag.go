@@ -12,7 +12,6 @@ import (
 var TagMap TMap
 var GroupMap TMap
 var TagList []string
-var spaceSymbol []rune = []rune{0, 9, 10, 13, 32, 40, 58, 124}
 
 type TMap map[rune][]TMapItem
 

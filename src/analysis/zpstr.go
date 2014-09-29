@@ -5,7 +5,6 @@ import (
 	"os"
 	"bufio"
 	"fmt"
-	"strings"
 )
 
 func Substring(str string, start, length int) string {
@@ -140,20 +139,7 @@ func buildNewTag(tag []rune) []rune {
 	return clearTagSuffix(newTag)
 }
 //12290:46,  .
-var replaceMap map[rune]rune = map[rune]rune{
-	65288:40, 65289:41,
-	12288:32, 65306:58, 65372:124,
-	11:10, 160:32, 8226:47, 7:10, 12:10, 13:10, 8211:45, 8212:45}
 
-func initReplaceMap() {
-	upper := "ABCDEFGHIJKLMNOPQRSTYWLXYZ"
-	lower := strings.ToLower(upper)
-	letter1 := []rune(upper)
-	letter2 := []rune(lower)
-	for i := 0; i < len(letter1); i++ {
-		replaceMap[letter1[i]] = letter2[i]
-	}
-}
 
 func formatContent(content []rune) []rune {
 	newContent := make([]rune, len(content))
@@ -292,15 +278,3 @@ func ClearHtmlTag(content []rune) []rune {
 
 	return text
 }
-
-
-//br
-///p
-///div
-
-
-
-
-//func clearContent(content []rune) []rune{
-//
-//}

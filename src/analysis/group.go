@@ -115,10 +115,12 @@ func findKeyWord(start int, position int, content []rune, words map[rune][][]run
 	return "-"
 }
 
+var unCompanySymbol []rune = []rune{0, 9, 10, 32}
+
 func findCompany(start int, position int, content []rune) (string, int) {
 	start = position
 	for position < len(content) {
-		if !binSearch(spaceSymbol,content[position]) {
+		if !binSearch(unCompanySymbol,content[position]) {
 			if content[position] == 10 {
 				break
 			}
