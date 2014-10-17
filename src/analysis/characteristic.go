@@ -3,7 +3,7 @@ package analysis
 var brTags [][]rune
 
 func initBrTags(){
-	var htmlTags []string = []string{"br/>","br />","br>","p>","div>","tr>","h1>","h2>","h3>"}
+	var htmlTags []string = []string{"br/>","br />","br>","<p","<div","<tr","<td","<h1","<h2","p>","div>","tr>","td>","h1>","h2>"}
 	for _,tag:= range(htmlTags){
 		rt:=[]rune(tag)
 		brTags=append(brTags,rt)
@@ -25,3 +25,14 @@ func initReplaceMap() {
 }
 
 var spaceSymbol []rune = []rune{0, 9, 10, 13, 32, 40, 58, 124}
+
+var excludeNames [][]rune  // = [][]rune{{20010, 20154}, {31616, 21382}, {25307, 32856}, {27714, 32844}}
+
+func initNotNameTag(){
+	var unNameTags []string = []string{"招聘","简历","姓名","已出国","性别","个人","求职","邮箱","智联","应聘"}
+	for _,tag:= range(unNameTags){
+		un:=[]rune(tag)
+		excludeNames=append(excludeNames,un)
+	}
+
+}

@@ -50,10 +50,10 @@ func Analysis(content string) Resume {
 			cv.Items = append(cv.Items, CVItem{tag.name, tag.content})
 		}
 	}
-	matchName(0, codingBody[:150], &cv)
-	matchMobile(0, codingBody[:300], &cv)
-	matchDate(0, codingBody[0:300], &cv)
-	matchEmail(0, codingBody[0:300], &cv)
+	matchName(0, codingBody[:500], &cv)
+	matchMobile(0, codingBody[:500], &cv)
+	matchDate(0, codingBody[0:700], &cv)
+	matchEmail(0, codingBody[0:500], &cv)
 	return cv
 }
 

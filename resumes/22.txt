@@ -1,0 +1,642 @@
+
+<html>
+<head>
+<title>求职信</title>
+<!--LINK REL="StyleSheet" HREF="http://images.zhaopin.com/new/jobseeker/css/zhaopin-ie.css" TYPE="text/css"-->
+<style type="text/css">
+<!--
+.bred12pxDis{font-weight: bold; color:#ff0000;font-size:12px;font-family:Courier New,宋体;}
+
+all.clsMenuItemNS { font-size: 12px;line-height:19px; COLOR: white; TEXT-DECORATION: none ;font-family:Courier New,宋体;}
+.clsMenuItemIE { font-size: 12px;line-height:19px; CURSOR: hand; COLOR: white; TEXT-DECORATION: none ;font-family:Courier New,宋体;}
+A.menu{ font-size: 12px;line-height:19px;color:#054C82; TEXT-DECORATION: none ;font-family:Courier New,宋体;}
+A.menu:hover{ font-size: 12px;line-height:19px;color:#387fb5; TEXT-DECORATION: none ;font-family:Courier New,宋体;}
+A{ font-size: 12px;line-height:20px;color:#054C82;font-family:Courier New,宋体;}
+A:hover{ font-size: 12px;line-height:20px;color:#387fb5;font-family:Courier New,宋体;}
+A.none{ font-size: 12px;line-height:20px;color:#054C82; text-decoration: none;font-family:Courier New,宋体;}
+A.none:hover{ font-size: 12px;line-height:20px;color:#8F3206; text-decoration: none;font-family:Courier New,宋体;}
+A.brown:hover{ font-size: 12px;line-height:20px;color:#af5428; text-decoration: none;font-family:Courier New,宋体;}
+A.brown{ font-size: 12px;line-height:20px;color:#8F3206; text-decoration: none;font-family:Courier New,宋体;}
+A.brown2:hover{ font-size: 12px;line-height:20px;color:#af5428;font-family:Courier New,宋体;}
+A.brown2{ font-size: 12px;line-height:20px;color:#8F3206;font-family:Courier New,宋体;}
+.white { color : #ffffff;line-height:14px; font-size: 12px; text-decoration: none;font-family:Courier New,宋体;}
+.white:hover { color : #ffffff;line-height:14px; font-size: 12px; text-decoration: none;font-family:Courier New,宋体;}
+
+p,.p { font-size: 12px;line-height:20px;font-family:Courier New,宋体;}
+.blue12px { font-size: 12px;line-height:20px;color:#054C82; text-decoration: none;font-family:Courier New,宋体;}
+.black12px { font-size: 12px;line-height:20px; text-decoration: none;font-family:Courier New,宋体;}
+.blue14px{ font-size: 14px; line-height:20px; color: #5683AC;font-family:Courier New,宋体;}
+.brown12px { font-size: 12px; line-height:20px; color: #8F3206; text-decoration: none;font-family:Courier New,宋体;}
+.name14px { font-size: 14px; color: #555555;font-family:Courier New,宋体;}
+.brown14px { font-size: 14px; line-height:20px; color: #8F3206;font-family:Courier New,宋体;}
+.red12px { color:#aa0000;font-size:12px;font-family:Courier New,宋体;}
+.err12px { color:red;font-size:12px;font-family:Courier New,宋体;}
+.grey12px{color:#999999;font-size:12px;font-family:Courier New,宋体;}
+.bred12px{font-weight: bold; color:#aa0000;font-size:12px;font-family:Courier New,宋体;}
+.b14title { font-size: 14px; font-weight: bold; color: #000000;font-family:Courier New,宋体;}
+.b12title { font-size: 12px; font-weight: bold; color: #000000;font-family:Courier New,宋体;}
+.bp12px{ font-size: 12px;font-weight: bold;line-height:20px;font-family:Courier New,宋体;}
+.yellow12px{font-size:12px;color:#FFCC33;font-family:Courier New,宋体;}
+.yellow-top{font-size:12px;color:#FFCC33;line-height:14px;text-decoration: none;font-family:Courier New,宋体;}
+.yellow-top:hover{font-size:12px;color:#FFCC33;line-height:14px;text-decoration: none;font-family:Courier New,宋体;}
+.navi {font-size: 9pt; color: #FFFFFF;font-family:Courier New,宋体;}
+
+input,li { font-size: 12px;font-family:Courier New,宋体;}
+select { font-size: 12px;font-family:Courier New,宋体;}
+textarea { font-size: 12px;font-family:Courier New,宋体;}
+.line{ font-size: 12px;line-height:20px;text-decoration:underline; color: #000000;font-family:Courier New,宋体;}
+.line1{ font-size: 12px;line-height:20px;text-decoration:none; color: #000000;font-family:Courier New,宋体;}
+.bgblue{background-color:#e3eaf0;}
+.bgwhite{background-color:white;}
+.bggrey{background-color:#F1F1F1;}
+
+input.mz
+{
+font-family:Courier New,宋体;
+font-size:12px;
+color:White;
+background-color:#0B7DB9;
+border-color:Black;
+border-width:1px;
+border-style:solid;
+height:20px;
+cursor:hand
+}
+
+input.search
+{
+	font-family:Courier New,宋体;
+	font-size:12px;
+	color:black;
+	background-color:#eeeeee;
+	border-color:Black;
+	border-width:1px;
+	border-style:solid;
+	height:15px;
+	text-align : center;
+}
+
+.eng {font-family:Courier New;}
+-->
+</style>
+</head>
+<body>
+
+<TABLE width=600 border=0 cellSpacing=0 cellPadding=0 align=center>
+  <TR>
+    <td align="center"><B class=brown14px>求职信</B></td>
+  </tr>
+  <TR>
+    <td><p>尊敬的HR先生/女士：<br/><br/>我从智联招聘网上 得知贵公司正在招聘战略运营部总经理一职，通过对比后发现这个职位和我的经历和兴趣都比较吻合，故附上简历，请您在百忙中一阅。<br/><br/>期待着和您进一步的会谈。请随时和我电话(13910731682)联系。<br/><br/>谢谢关注,并祝工作顺心！<br/><br/>周颖<br/><br/>2006年10月9日</p></td>
+  </tr>
+
+</TABLE>
+<a href="http://interface.zhaopin.com/email/agent.asp?source_code=js_020&usi=[%%USERCOOKIE_URL%%]&url=需要跳转的路径"></a>
+</body>
+</html>
+<html>
+<head>
+<title></title>
+<META name="keywords" content="求职 招聘 招聘网站 人才网站 工作机会 找工作 职位信息 人力资源 培训 短信求职
+无线求职 移动求职 英语 简历 招聘会 毕业生 大学生外企招聘 HR专家咨询 职业 顾问 短期员工聘用 大学生实习 应聘 兼职 人才测评 校园招聘">
+<META name="description" content="智联招聘www.zhaopin.com作为知名的人力资源提供商,为个人用户提供职位搜索,简历管理,职位定制,人才评测,培训信息,猎头等求职服务,为企业用户提供职位发布,简历搜索,校园招聘,人事代理,教育培训,猎头等服务。">
+<!--LINK REL="StyleSheet" HREF="http://images.zhaopin.com/new/jobseeker/css/zhaopin-ie.css" TYPE="text/css"-->
+<style type="text/css">
+<!--
+.bred12pxDis{font-weight: bold; color:#ff0000;font-size:12px;font-family:Courier New,;}
+
+all.clsMenuItemNS { font-size: 12px;line-height:19px; COLOR: white; TEXT-DECORATION: none ;font-family:Courier New,;}
+.clsMenuItemIE { font-size: 12px;line-height:19px; CURSOR: hand; COLOR: white; TEXT-DECORATION: none ;font-family:Courier New,;}
+A.menu{ font-size: 12px;line-height:19px;color:#054C82; TEXT-DECORATION: none ;font-family:Courier New,;}
+A.menu:hover{ font-size: 12px;line-height:19px;color:#387fb5; TEXT-DECORATION: none ;font-family:Courier New,;}
+A{ font-size: 12px;line-height:20px;color:#054C82;font-family:Courier New,;}
+A:hover{ font-size: 12px;line-height:20px;color:#387fb5;font-family:Courier New,;}
+A.none{ font-size: 12px;line-height:20px;color:#054C82; text-decoration: none;font-family:Courier New,;}
+A.none:hover{ font-size: 12px;line-height:20px;color:#8F3206; text-decoration: none;font-family:Courier New,;}
+A.brown:hover{ font-size: 12px;line-height:20px;color:#af5428; text-decoration: none;font-family:Courier New,;}
+A.brown{ font-size: 12px;line-height:20px;color:#8F3206; text-decoration: none;font-family:Courier New,;}
+A.brown2:hover{ font-size: 12px;line-height:20px;color:#af5428;font-family:Courier New,;}
+A.brown2{ font-size: 12px;line-height:20px;color:#8F3206;font-family:Courier New,;}
+.white { color : #ffffff;line-height:14px; font-size: 12px; text-decoration: none;font-family:Courier New,;}
+.white:hover { color : #ffffff;line-height:14px; font-size: 12px; text-decoration: none;font-family:Courier New,;}
+
+p,.p { font-size: 12px;line-height:20px;font-family:Courier New,;}
+.blue12px { font-size: 12px;line-height:20px;color:#054C82; text-decoration: none;font-family:Courier New,;}
+.black12px { font-size: 12px;line-height:20px; text-decoration: none;font-family:Courier New,;}
+.blue14px{ font-size: 14px; line-height:20px; color: #5683AC;font-family:Courier New,;}
+.brown12px { font-size: 12px; line-height:20px; color: #8F3206; text-decoration: none;font-family:Courier New,;}
+.name14px { font-size: 14px; color: #555555;font-family:Courier New,;}
+.brown14px { font-size: 14px; line-height:20px; color: #8F3206;font-family:Courier New,;}
+.red12px { color:#aa0000;font-size:12px;font-family:Courier New,;}
+.err12px { color:red;font-size:12px;font-family:Courier New,;}
+.grey12px{color:#999999;font-size:12px;font-family:Courier New,;}
+.bred12px{font-weight: bold; color:#aa0000;font-size:12px;font-family:Courier New,;}
+.b14title { font-size: 14px; font-weight: bold; color: #000000;font-family:Courier New,;}
+.b12title { font-size: 12px; font-weight: bold; color: #000000;font-family:Courier New,;}
+.bp12px{ font-size: 12px;font-weight: bold;line-height:20px;font-family:Courier New,;}
+.yellow12px{font-size:12px;color:#FFCC33;font-family:Courier New,;}
+.yellow-top{font-size:12px;color:#FFCC33;line-height:14px;text-decoration: none;font-family:Courier New,;}
+.yellow-top:hover{font-size:12px;color:#FFCC33;line-height:14px;text-decoration: none;font-family:Courier New,;}
+.navi {font-size: 9pt; color: #FFFFFF;font-family:Courier New,;}
+
+input,li { font-size: 12px;font-family:Courier New,;}
+select { font-size: 12px;font-family:Courier New,;}
+textarea { font-size: 12px;font-family:Courier New,;}
+.line{ font-size: 12px;line-height:20px;text-decoration:underline; color: #000000;font-family:Courier New,;}
+.line1{ font-size: 12px;line-height:20px;text-decoration:none; color: #000000;font-family:Courier New,;}
+.bgblue{background-color:#e3eaf0;}
+.bgwhite{background-color:white;}
+.bggrey{background-color:#F1F1F1;}
+
+input.mz
+{
+font-family:Courier New,;
+font-size:12px;
+color:White;
+background-color:#0B7DB9;
+border-color:Black;
+border-width:1px;
+border-style:solid;
+height:20px;
+cursor:hand
+}
+
+input.search
+{
+	font-family:Courier New,;
+	font-size:12px;
+	color:black;
+	background-color:#eeeeee;
+	border-color:Black;
+	border-width:1px;
+	border-style:solid;
+	height:15px;
+	text-align : center;
+}
+
+.eng {font-family:Courier New;}
+-->
+</style>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312"></head>
+<body>
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr><td height="1" bgcolor="#E7E7E7"></td></tr>
+  <tr><td height="10"></td></tr>
+</table>
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr>
+    <td width="170" rowspan="3" valign="middle"><B style="font-family:;font-size:35px">周颖</B></td>
+    <TD width="430" align="right" style="display:"><p>
+        <!--@BeginPERSON_GENDER_1-->
+        男
+        <!--@EndPERSON_GENDER_1-->
+
+        <!--@BeginSHOWYEARSTART-->
+        |
+        <!--@EndSHOWYEARSTART-->
+
+        1977 年生
+        <!--@BeginSHOWYEAR-->
+        <!--@EndSHOWYEAR-->
+
+        | 户口:中国 北京
+
+      </p></TD>
+  </TR>
+  <tr>
+    <TD width="430" align="right"><p>
+
+              中国 北京 8688信箱
+
+			  <!--@BeginSPLITSYMBOL-->
+			   |
+			  <!--@EndSPLITSYMBOL-->
+              100085</p></TD>
+  </TR>
+  <tr>
+    <td width="430" align="right"><p>
+
+
+
+              13910731682 |
+
+              zhouyinge@163.com</p></td>
+  </tr>
+</table>
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr>
+    <td height="10"></td>
+  </tr>
+</table>
+<!--@BeginSHOW_COMMENT-->
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center" style="border:1px #E7E7E7 solid;" bgcolor="#F7F7F7">
+  <tr>
+    <td height="22" style="padding-left:5px;"><p class="brown14px">自我评价</p></td>
+  </TR>
+</table>
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr><td height="10"></td></tr>
+  <tr>
+    <TD><p>1.深入参与并设计大型集团企业高层运营管理体系，深谙高效及规范的企业运作之道；<br/>2.成功的企业战略规划及战略管理实践；对于中国企业如何落实战略有独到心得；<br/>3.长期与中国顶级商业领袖共事经验，极强的与高层互动能力。</p></TD>
+  </TR>
+  <tr><td height="10"></td></tr>
+</table>
+<!--@EndSHOW_COMMENT-->
+<!--@BeginWORK_EXPERIENCE_TITLE-->
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center" style="border:1px #E7E7E7 solid;" bgcolor="#F7F7F7">
+  <tr>
+    <td height="22" style="padding-left:5px;"><p class="brown14px">工作经历</p></td>
+  </tr>
+</table>
+<!--@EndWORK_EXPERIENCE_TITLE-->
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr><td height="10"></td></tr>
+</table>
+
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr>
+    <td width="130" align="right" valign="top"><p>2005.11-至今：</B></p></td>
+    <td width="470" colspan="2"><p><span class="blue12px">联想集团</span> | <span class="blue12px">全球供应链战略沟通经理</span> |
+              <span class="blue12px">北京</span></p></td>
+  </tr>
+  <tr>
+    <td width="130"></td>
+    <td width="470">
+	  <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+        <tr>
+                <td><p>计算机硬件及网络设备
+                  | |合资 |10000人以上  | 10001-15000元/月</p></td>
+              </tr>
+		<tr>
+          <td><p>1. 作为全球供应链管理团队（GSC Executive Team，简称GET）成员之一，全程支持全球供应链领导委员会（GSC Leadership Council）日常运营工作<br/>2. 参与策划并实施GSC 5年战略规划、组织结构调整、运营管理及KPI考核体系设计等重大项目，主要负责以上项目的变革推进及沟通工作<br/>3. 作为联想COO&SVP刘军的沟通顾问，全面负责刘军PR及外部事务，策划组织各种新闻发布、专访、论坛峰会等活动<br/>4. 带领8人团队（实线汇报3人，深圳IIPC虚线4人，美国Raleigh 1人）</p></td>
+        </tr>
+      </table>
+	</td>
+  </tr>
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr>
+    <td width="130" align="right" valign="top"><p>2004.3-2005.10：</B></p></td>
+    <td width="470" colspan="2"><p><span class="blue12px">联想集团</span> | <span class="blue12px">企业战略及运营经理</span> |
+              <span class="blue12px">北京</span></p></td>
+  </tr>
+  <tr>
+    <td width="130"></td>
+    <td width="470">
+	  <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+        <tr>
+                <td><p>计算机硬件及网络设备
+                  | |合资 |10000人以上 </p></td>
+              </tr>
+		<tr>
+          <td><p>1. 全程参与联想中国业务模式变革（BPR）项目并负责项目管理，推动业务模式变革在公司各价值链环节的落实。成功推动联想中国由单一渠道分销模式向关系型/交易型双业务模式的转型，实现PC销量三倍速于大市增长<br/>2. 策划并实施收购IBM PC业务、双边组织及业务整合等重大战略项目，保障业务平稳整合过渡<br/>3. 重新梳理设计新的公司运营例会体系及KPI报表管理系统，推动公司高效运营管理体系的建立<br/>4. 带领3人团队<br/>5. 获2005财年Win Lenovo特别奖</p></td>
+        </tr>
+      </table>
+	</td>
+  </tr>
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr>
+    <td width="130" align="right" valign="top"><p>2004.3-2005.3：</B></p></td>
+    <td width="470" colspan="2"><p><span class="blue12px">联想集团</span> | <span class="blue12px">企业战略及运营主管</span> |
+              <span class="blue12px">北京</span></p></td>
+  </tr>
+  <tr>
+    <td width="130"></td>
+    <td width="470">
+	  <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+        <tr>
+                <td><p>计算机硬件及网络设备
+                  | |合资 |10000人以上 </p></td>
+              </tr>
+		<tr>
+          <td><p>1. 全面参与联想集团高层运营管理以及三年战略规划制订<br/>2. 作为杨元庆总裁的战略沟通助理，策划组织系列战略沟通活动并负责起草集团重要战略文件，保障04年战略变革的顺利实施<br/>3. 获2004财年企划系统优秀员工奖<br/>4. 获2004财年总裁特别奖</p></td>
+        </tr>
+      </table>
+	</td>
+  </tr>
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr>
+    <td width="130" align="right" valign="top"><p>2003.1-2004.3：</B></p></td>
+    <td width="470" colspan="2"><p><span class="blue12px">联想集团</span> | <span class="blue12px">消费数码推广专员</span> |
+              <span class="blue12px">北京</span></p></td>
+  </tr>
+  <tr>
+    <td width="130"></td>
+    <td width="470">
+	  <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+        <tr>
+                <td><p>计算机硬件及网络设备
+                  | |合资 |10000人以上 </p></td>
+              </tr>
+		<tr>
+          <td><p>1. 负责联想消费数码产品的市场推广工作，成功策划了多款MP3、掌上电脑及智能手机的新品上市，有力促进销售<br/>2. 业界首创“电脑手机”概念，包装ET180手机上市，单月销售2.4万台</p></td>
+        </tr>
+      </table>
+	</td>
+  </tr>
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr><td height="10"></td></tr>
+</table>
+<!--@BeginEDUCATION_TITLE-->
+<a name="education"></a>
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center" style="border:1px #E7E7E7 solid;" bgcolor="#F7F7F7">
+  <tr>
+    <td height="22" style="padding-left:5px;"><p class="brown14px">教育</p></td>
+  </tr>
+</table>
+<!--@EndEDUCATION_TITLE-->
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr><td height="10"></td></tr>
+</table>
+
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr>
+    <td width="130" align="right" valign="top"><p>2000.9-2003.7：</p></td>
+    <td width="470"><p><span class="blue12px">科技政策与管理</span> | <span class="blue12px">硕士</span> | <span class="blue12px">清华大学</span>
+              | 北京</p></td>
+  </tr>
+</table>
+
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr>
+    <td width="130" align="right" valign="top"><p>1998.9-2000.7：</p></td>
+    <td width="470"><p><span class="blue12px">传播学（双学位）</span> | <span class="blue12px">本科</span> | <span class="blue12px">清华大学</span>
+              | 北京</p></td>
+  </tr>
+</table>
+
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr>
+    <td width="130" align="right" valign="top"><p>1994.9-1999.7：</p></td>
+    <td width="470"><p><span class="blue12px">材料科学与工程</span> | <span class="blue12px">本科</span> | <span class="blue12px">清华大学</span>
+              | 北京</p></td>
+  </tr>
+</table>
+
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr><td height="10"></td></tr>
+</table>
+
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr><td height="10"></td></tr>
+</table>
+
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr><td height="10"></td></tr>
+</table>
+
+
+<a href="http://interface.zhaopin.com/email/agent.asp?source_code=js_020&usi=[%%USERCOOKIE_URL%%]&url=??·"></a>
+</body>
+</html>
+<html>
+<head>
+<title></title>
+<style type="text/css">
+<!--
+A{ font-size: 12px;line-height:20px;color:#054C82;font-family:Courier New,宋体;}
+A:hover{ font-size: 12px;line-height:20px;color:#387fb5;font-family:Courier New,宋体;}
+p,.p { font-size: 12px;line-height:20px;font-family:Courier New,宋体;}
+-->
+</style>
+</head>
+<body>
+<TABLE width=600 border=0 cellSpacing=0 cellPadding=0 align=center>
+  <tr><td height="1" bgcolor="#E7E7E7"></td></tr>
+  <tr><td height="10"></td></tr>
+</table>
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr>
+    <td width="170" rowspan="3" nowrap valign="middle"><B style="font-family:;font-size:35px">David Zhou</B></td>
+    <TD width="430" align="right" style="display:" ><p>
+              <!--@BeginPERSON_GENDER_1-->
+              male
+              <!--@EndPERSON_GENDER_1-->
+
+			  |
+
+              <!--@BeginSHOWYEARSTART-->
+              <!--@EndSHOWYEARSTART-->
+              1977
+
+			  | HuKou:China BEIJING
+			  </p></TD></p></TD>
+  </TR>
+  <tr>
+    <TD width="430" align="right"><p>
+
+              China BEIJING 8688 Mailbox
+
+			  <!--@BeginSPLITSYMBOL-->
+			   |
+			  <!--@EndSPLITSYMBOL-->
+              100085</p></TD>
+  </TR>
+  <tr>
+    <td width="430" align="right"><p>
+
+
+
+              13910731682 |
+
+              zhouyinge@163.com</p></td>
+  </tr>
+</table>
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr><td height="10"></td></tr>
+</table>
+<!--@BeginSHOW_COMMENT-->
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center" style="border:1px #E7E7E7 solid;" bgcolor="#F7F7F7">
+  <tr>
+    <td height="22" style="padding-left:5px"><p style="font-size:14px; color:#8F3206;">Self-estimate</p></td>
+  </TR>
+</table>
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr><td height="10"></td></tr>
+  <tr>
+    <TD><p>Good experience in top-level operation management of large corporation; Successful strategy planning & management experience; good communication skills with top executives. </p></TD>
+  </TR>
+  <tr><td height="10"></td></tr>
+</table>
+<!--@EndSHOW_COMMENT-->
+<!--@BeginWORK_EXPERIENCE_TITLE-->
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center" style="border:1px #E7E7E7 solid;" bgcolor="#F7F7F7">
+  <tr>
+    <td height="22" style="padding-left:5px"><p style="font-size:14px; color:#8F3206;">Experience</p></td>
+  </tr>
+</table>
+<!--@EndWORK_EXPERIENCE_TITLE-->
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr><td height="10"></td></tr>
+</table>
+
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr>
+    <td width="130" align="right" valign="top"><p>2005.11-Now</p></td>
+    <td width="470"><p><font color="#054C82">Lenovo Group</font> | <font color="#054C82">Strategy Communication Manager</font> | <font color="#054C82">Beijing</font></p></td>
+  </tr>
+  <tr>
+    <td width="130"></td>
+    <td width="470">
+	  <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+        <tr>
+                <td><p>Computer Hardware, Network Equipment
+                    | |JV |More than 10000  | 10001-15000RMB/Month</p></td>
+              </tr>
+		<tr>
+          <td><p>1. As member of GSC Executive Team (GET) , fully supported GSC Leadership Council(GLC)’s daily operation<br/>2. Joined GSC 5-year strategy planning, organization restructuring, operation/KPI management system designing, etc.; took charge of the change management & communication of these projects;<br/>3. As Lenovo COO&SVP Liu Jun’s communication advisor, was responsible for Liu Jun’s PR and public affairs: media conference, interview, forums & submits, etc.<br/>4. Led an 8-person team with 3 real-lines in Beijing, 4 dot-lines in Shenzhen IIPC and 1 dot-line in Raleigh, U.S.</p></td>
+        </tr>
+      </table>
+	</td>
+  </tr>
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr>
+    <td width="130" align="right" valign="top"><p>2004.3-2005.10</p></td>
+    <td width="470"><p><font color="#054C82">Lenovo Group</font> | <font color="#054C82">Strategy & Operation Manager</font> | <font color="#054C82">Beijing</font></p></td>
+  </tr>
+  <tr>
+    <td width="130"></td>
+    <td width="470">
+	  <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+        <tr>
+                <td><p>Computer Hardware, Network Equipment
+                    | |JV |More than 10000 </p></td>
+              </tr>
+		<tr>
+          <td><p> 1.Joined Lenovo China Business Process Reengineering(BPR) and served as project management and push the business model transformation. The BPR project successfully transformed Lenovo China’s business model from single ‘distributional model’ into ‘dual model’ (Transactional model & Relationship model) in Industry, which made Lenovo China’s PC sales increased 3 times of the Industry growth rate. <br/>2. Planned crucial projects such as acquiring IBM PC business, organization integration, etc. afforded smooth transformation and transition.<br/>3. Redesigned a new corporate regular meeting & KPI system, which made Lenovo China achieve operational excellence. <br/>4. Led a 3-person team;<br/>5. Won Win-Lenovo Award in 2005 fiscal year.</p></td>
+        </tr>
+      </table>
+	</td>
+  </tr>
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr>
+    <td width="130" align="right" valign="top"><p>2004.3-2005.3</p></td>
+    <td width="470"><p><font color="#054C82">Lenovo Group</font> | <font color="#054C82">Strategy & Operations</font> | <font color="#054C82">Beijing</font></p></td>
+  </tr>
+  <tr>
+    <td width="130"></td>
+    <td width="470">
+	  <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+        <tr>
+                <td><p>Computer Hardware, Network Equipment
+                    | |JV |More than 10000 </p></td>
+              </tr>
+		<tr>
+          <td><p>1. Fully participated in Lenovo Group top-level operation management & 3-year Strategy Planning; <br/>2. Worked as President &CEO Yang Yuanqing’s Strategy communication assistant, planned & implemented series of strategy communication events and drafted out corporate strategic documents, supported the smooth transformation.<br/>3. Won Excellent Individual of Strategy& Planning Group Award of 2004 fiscal year<br/>4. Won President’s Special Award of 2004 fiscal year</p></td>
+        </tr>
+      </table>
+	</td>
+  </tr>
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr>
+    <td width="130" align="right" valign="top"><p>2003.1-2004.3</p></td>
+    <td width="470"><p><font color="#054C82">Lenovo Group</font> | <font color="#054C82">Market Communication</font> | <font color="#054C82">Beijing</font></p></td>
+  </tr>
+  <tr>
+    <td width="130"></td>
+    <td width="470">
+	  <table width="100%" border="0" cellpadding="0" cellspacing="0" align="center">
+        <tr>
+                <td><p>Computer Hardware, Network Equipment
+                    | |JV |More than 10000 </p></td>
+              </tr>
+		<tr>
+          <td><p>1. Responsible for mar-com of Lenovo Consumer Digital Business, Did well in MP3, PDA & smart phone new products introduction and sales promotion.<br/>2. Created the concept of ‘Computer Mobile’ for ET180 mobile phone, achieved 24K sales in first month.</p></td>
+        </tr>
+      </table>
+	</td>
+  </tr>
+  <tr>
+    <td height="5"></td>
+  </tr>
+</table>
+
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr><td height="10"></td></tr>
+</table>
+<!--@BeginEDUCATION_TITLE-->
+<a name="education"></a>
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center" style="border:1px #E7E7E7 solid;" bgcolor="#F7F7F7">
+  <tr>
+    <td height="22" style="padding-left:5px;"><p style="font-size:14px; color:#8F3206;">Education</p></td>
+  </tr>
+</table>
+<!--@EndEDUCATION_TITLE-->
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr><td height="10"></td></tr>
+</table>
+
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr>
+    <td width="130" align="right" valign="top"><p>2000.9-2003.7</p></td>
+    <td width="470"><p><font color="#054C82">Piliosophy</font> | <font color="#054C82">Master</font> | <font color="#054C82">Tsinghua University</font>
+              | Beijing</p></td>
+  </tr>
+</table>
+
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr>
+    <td width="130" align="right" valign="top"><p>1998.9-2000.7</p></td>
+    <td width="470"><p><font color="#054C82">Communications</font> | <font color="#054C82">Bachelor</font> | <font color="#054C82">Tsinghua University</font>
+              | Beijing</p></td>
+  </tr>
+</table>
+
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr>
+    <td width="130" align="right" valign="top"><p>1994.9-1999.7</p></td>
+    <td width="470"><p><font color="#054C82">Engineering</font> | <font color="#054C82">Bachelor</font> | <font color="#054C82">Tsinghua University</font>
+              | Beijing</p></td>
+  </tr>
+</table>
+
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr><td height="10"></td></tr>
+</table>
+
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr><td height="10"></td></tr>
+</table>
+
+<table width="600" border="0" cellpadding="0" cellspacing="0" align="center">
+  <tr><td height="10"></td></tr>
+</table>
+
+
+<a href="http://interface.zhaopin.com/email/agent.asp?source_code=js_020&usi=[%%USERCOOKIE_URL%%]&url=??·"></a>
+</body>
+</html>

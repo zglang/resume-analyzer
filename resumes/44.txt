@@ -1,0 +1,197 @@
+<!DOCTYPE HTML>
+<html lang="zh">
+<head>
+    <meta charset="utf-8">
+    <title>智联简历</title>
+    <link href="http://img00.zhaopin.cn/2012/css/rd/common.css" rel="stylesheet" type="text/css" />
+    <link href="http://img00.zhaopin.cn/2012/css/rd/rdnew_2.css" rel="stylesheet" type="text/css" />
+    <link href="http://img00.zhaopin.cn/2012/css/rd/rdnewlayer.css" rel="stylesheet"
+        type="text/css" />
+
+</head>
+<body>
+    <div class="resume-preview clearfix">
+        <div class="resume-body-left">
+			<div class="resume-preview-head">
+				<img alt="" src="http://img02.zhaopin.cn/2012/img/rd/logo.png" width="133" height="71" align="right" class="headerlogo" />
+									<div class="resume-preview-title">
+						<span  class="resume-preview-list">
+							简历名称：<strong id="resumeName">护士  四年</strong>
+						</span><br />
+						<span class="resume-preview-list">
+							期望从事职业：
+							<strong id="desireIndustry">医院/医疗/护理、公务员/事业单位/科研机构、银行</strong>
+						</span><br />
+						<span class="resume-preview-list">
+							简历更新时间：
+							<strong id="resumeUpdateTime">2014.10.12</strong>
+						</span>
+					</div>
+
+				<div class="resume-preview-center">
+					<div class="center-left">
+						<div class="resume-left-tips">
+							<div class="resume-left-tips-span">
+								<span class="resume-left-tips-id">ID:JR429684674R90250001000</span>
+								<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+								<span></span>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+
+			<div id="resumeDetail">
+				<div class="resume-preview-main">
+					<div class="resume-preview-left">
+					<div style="height:1px;color:#fff;overflow:hidden;">招聘网</div>
+					<div class="resume-preview-main-title">
+													<div class="main-title-fl fc6699cc">郑佳佳</div>
+							<div class="main-title-fr">手机 ：18001222199</div>
+											</div>
+					<div class="summary">
+						<a target="_blank" href="http://rd.zhaopin.com/img/lookResumes.jpg"><img alt="" src="http://rd.zhaopin.com/img/lookResumes.jpg" width="93" height="131" align="right" class="headerImg" /></a>
+						<div class="summary-top">
+							<span>女&nbsp;&nbsp;&nbsp;&nbsp;27岁(1987年1月)&nbsp;&nbsp;&nbsp;&nbsp;4年工作经验&nbsp;&nbsp;&nbsp;&nbsp;本科&nbsp;&nbsp;&nbsp;&nbsp;已婚</span>
+							<br />
+							现居住地：北京 朝阳区 | 户口：太原 | 群众
+						</div>
+						<div class="summary-bottom">
+															<br />
+								身份证：140109198701293046<br />手机：18001222199<br />E-mail：<a href="mailto:348237760@qq.com">348237760@qq.com</a>
+													</div>
+					</div>
+											<div class="resume-preview-all">
+							<h3 class="fc6699cc">求职意向</h3>
+							<div class="resume-preview-top">
+								<table cellpadding="0" cellspacing="0" >
+																									<tr valign="top">
+										<td width="85" align="right">期望工作地区：</td>
+										<td>北京</td>
+									</tr>
+																																	<tr valign="top">
+										<td width="85" align="right">期望月薪：</td>
+										<td>8001-10000元/月</td>
+									</tr>
+																																	<tr valign="top">
+										<td width="85" align="right">目前状况：</td>
+										<td>我目前在职，正考虑换个新环境（如有合适的工作机会，到岗时间一个月左右）</td>
+									</tr>
+																																	<tr valign="top">
+										<td width="85" align="right">期望工作性质：</td>
+										<td>全职</td>
+									</tr>
+																																	<tr valign="top">
+										<td width="85" align="right">期望从事职业：</td>
+										<td>医院/医疗/护理、公务员/事业单位/科研机构、银行</td>
+									</tr>
+																																	<tr valign="top">
+										<td width="85" align="right">期望从事行业：</td>
+										<td>跨领域经营、政府/公共事业/非盈利机构、医药/生物工程、银行、贸易/进出口、航空/航天研究与制造、医疗/护理/美容/保健/卫生服务、电气/电力/水利</td>
+									</tr>
+																</table>
+							</div>
+						</div>
+
+																	<div class="resume-preview-all">
+								<h3 class="fc6699cc">自我评价</h3>
+								<div class="resume-preview-dl rd-break">本人有很强的责任心和耐心，工作谨慎心细，学习能力很强，善于团队合作。期盼能有公司给我机会展示自己。</div>
+							</div>
+
+											<div class="resume-preview-all">
+							<h3 class="fc6699cc">工作经历</h3>
+															<h2>2014.04 - 至今&nbsp;&nbsp;深圳航空&nbsp;&nbsp;（6个月）</h2>
+								<h5>医疗中心 | 航空护士 | 4001-6000元/月</h5>
+								<div class="resume-preview-dl">
+									交通/运输 | 企业性质：国企 | 规模：10000人以上
+								</div>
+																	<div class="resume-preview-dl">
+										<table cellpadding="0" cellspacing="0" >
+											<tr valign="top">
+												<td width="60">工作描述：</td>
+												<td>从事航空护理相关工作，主要负责空勤人员日常健康监测及管理</td>
+											</tr>
+										</table>
+																													</div>
+																							<h2>2012.09 - 2014.04&nbsp;&nbsp;圣释国际诊疗机构&nbsp;&nbsp;（1年7个月）</h2>
+								<h5>护理部 | 护士 | 2001-4000元/月</h5>
+								<div class="resume-preview-dl">
+									医疗/护理/美容/保健/卫生服务 | 企业性质：民营 | 规模：100-499人
+								</div>
+																	<div class="resume-preview-dl">
+										<table cellpadding="0" cellspacing="0" >
+											<tr valign="top">
+												<td width="60">工作描述：</td>
+												<td>负责高端客户诊疗的日常工作</td>
+											</tr>
+										</table>
+																													</div>
+																							<h2>2010.08 - 2012.08&nbsp;&nbsp;中国中医科学院望京医院&nbsp;&nbsp;（2年）</h2>
+								<h5>临床护理 | 护士 | 2001-4000元/月</h5>
+								<div class="resume-preview-dl">
+									医疗/护理/美容/保健/卫生服务 | 企业性质：事业单位 | 规模：500-999人
+								</div>
+																	<div class="resume-preview-dl">
+										<table cellpadding="0" cellspacing="0" >
+											<tr valign="top">
+												<td width="60">工作描述：</td>
+												<td>负责临床护理工作，工作期间认真谨慎，无差错事故</td>
+											</tr>
+										</table>
+																													</div>
+																					</div>
+
+
+											<div class="resume-preview-all">
+							<h3 class="fc6699cc">教育经历</h3>
+							<div class="resume-preview-dl">
+																		2006.09 - 2010.06&nbsp;&nbsp;山西医科大学&nbsp;&nbsp;护理学&nbsp;&nbsp;本科<br />
+															</div>
+						</div>
+
+											<div class="resume-preview-all">
+							<h3 class="fc6699cc">培训经历</h3>
+																	<h2>2009.06 - 2010.04&nbsp;&nbsp;内科，外科，妇科，急诊，手术室</h2>
+																	<div class="resume-preview-top resume-line-height">
+											<table cellpadding="0" cellspacing="0" >
+																									<tr valign="top">
+														<td width="60">培训机构：</td>
+														<td>北京友谊医院</td>
+													</tr>
+																																																											</table>
+										</div>
+													</div>
+
+											<div class="resume-preview-all">
+						<h3 class="fc6699cc">证书</h3>
+														<h2>2010.07&nbsp;&nbsp;护士资格证</h2>
+																			</div>
+
+
+
+
+											<div class="resume-preview-all">
+							<h3 class="fc6699cc">语言能力</h3>
+							<div class="resume-preview-dl resume-preview-line-height">
+																		英语：读写能力一般 | 听说能力一般<br />
+															</div>
+						</div>
+
+											<div class="resume-preview-all">
+							<h3 class="fc6699cc">专业技能</h3>
+							<div class="resume-preview-dl">
+																		医护／美容：精通 | 36个月<br />
+																		护理工作：精通 | 36个月<br />
+																		护理工作：精通 | 36个月<br />
+															</div>
+						</div>
+
+
+
+									</div>
+				</div>
+			</div>
+        </div>
+    </div>
+</body>
+</html>

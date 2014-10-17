@@ -1,0 +1,289 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<META http-equiv=Content-Type content="text/html; charset=utf-8">
+
+<title>主动应聘简历</title>
+
+</head>
+<body>
+<table width="746" border="0" align="center" cellpadding="0" cellspacing="0" style="border:1px solid #DCDCDE;">
+  <tr>
+    <td height="34" class="top_title"><strong>应聘信息</strong></td>
+  </tr>
+  <tr>
+    <td style="padding:5px;word-break:break-all;">
+      <table width="98%" border="0" align="center" cellpadding="4" cellspacing="1">
+        <tr>
+          <td><span style="color:#158bbe;">应聘以下职位：</span></td>
+        </tr>
+        <tr>
+          <td>          (ssss(信息待验证8265)) 软件测试
+          </td>
+        </tr>
+        <tr>
+          <td >简历编号：<a href="http://www.chinahr.com/modules/hmresume/index.php?c=preview&m=view_waterfall&ids=|6356ae845d393e544592d174j|">6356ae845d393e544592d174j</a>&nbsp;&nbsp;&nbsp;&nbsp;<a href="http://www.chinahr.com/modules/hmcompanyx/?c=login">企业登录</a></td>
+        </tr>
+                <tr>
+          <td>求职信：会感觉好机会</td>
+        </tr>
+        <tr>
+          <td>刚好看见的法国人</td>
+        </tr>
+              </table>
+    </td>
+  </tr>
+</table>
+
+<br />
+<table border="0" width="746" cellpadding="0" align="center" cellspacing="0" class="resumeBody">
+    <tr>
+      <td class="tr_title"><a target="_blank" href="http://www.chinahr.com/"><img width="120" height="45" border="0" alt="中华英才网" src="http://www.chinahr.com/themes/chinahr/images/images_mail/logo.gif"></a><i class="i_name">中华英才网 简历</i></td>
+    </tr>
+    <tr>
+      <td style="padding:16px 22px;">
+      <!--基本信息-->
+        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td valign="middle" class="td_name">刘先生</td>
+            <td rowspan="2" class="td_photo"><div class="gaizhang gaizhang_bg" style="display:"></div><img src= "http://www.myjob.com/modules/jsresume/images/nopic.jpg"  width="90" height="120" alt="相片"></td>
+          </tr>
+          <tr>
+            <td valign="top" class="td_center">
+             男
+               | 1985年03月生
+               | 国籍：中国
+             | 户口所在地： 福建宁德市福安市
+               | 目前居住地：甘肃金昌市永昌县
+               | 最高学历：中专
+               | 参加工作时间：10年8个月
+               | 已婚
+               | 157cm
+
+                             | 15074532148（手机） | 邮箱：xiaoling_yc008@163.com                             | 驾驶证：A2             </td>
+          </tr>
+        </table>
+
+        <!--求职意向-->
+          <table width="100%" border="0" cellpadding="0" cellspacing="0">
+            <tr>
+              <td class="td_title">求职意向</td>
+            </tr>
+            <tr>
+              <td class="td_center">
+                <strong>求职性质：</strong>全职<br>
+                <strong>期望工作：</strong>              渠道/分销专员&nbsp;<br>
+                <strong>期望行业：</strong>            医疗/护理/卫生&nbsp;<br>
+                <strong>期望地点：</strong>            安徽/阜阳市            北京市            <br>
+                <strong>期望薪水：</strong>12345以上<br>
+                <strong>期望单位性质：</strong>合资<br>
+                <strong>目前工作状态：</strong>在职<br>
+              </td>
+            </tr>
+          </table>
+
+          <!--工作经历-->
+          <table width="100%" border="0" cellpadding="0" cellspacing="0">
+            <tr>
+              <td class="td_title">工作经历</td>
+            </tr>
+                                    <tr>
+              <td class="td_center">
+                <p class="dlP">
+                  2013-08 至 今<br>                </p>
+                <p class="dlP">
+                  <strong>和规范化规划</strong>                   | 职位名称：gfhhgj郭德纲和价格                   | 职位：技工                </p>
+                <p class="dlP">
+                  公司规模：51－100人                   | 公司性质：非赢利性组织                   | 所属行业：通信/电信/网络设备&nbsp;                   | 薪水：3000到4000                </p>
+                <p class="dlP">
+                  部门：规范和规划                   | 下属人数：5人                </p>
+                <p class="dlP">
+                  <strong>职位描述：</strong><br>1、负责及时掌握和了解公司各方面统计数据和内部动态，定期提供公司工作简报<br>2、负责组织各部门的信息传递工作，保证各部门信息沟通顺畅 <br>3、负责组织办公室文件、资料、档案的保管和定期归档工作 <br>4、在总经理的授权下，代表总经理完成公司对外宣传与外联工作                </p>
+              </td>
+            </tr>
+                      </table>
+
+          <!--自我评价-->
+            <table width="100%" border="0" cellpadding="0" cellspacing="0">
+            <tr>
+              <td class="td_title">自我评价</td>
+            </tr>
+            <tr>
+                <td class="td_center">　　本人性格开朗、稳重、有活力，待人热情、真诚；工作认真负责，积极主动，能吃苦耐劳，用于承受压力，勇于创新；有很强的组织能力和团队协作精神，具有较强的适应能力；纪律性强，工作积极配合；意志坚强，具有较强的无私奉献精神。<br>　　对待工作认真负责，善于沟通、协调有较强的组织能力与团队精神；活泼开朗、乐观上进、有爱心并善于施教并行；上进心强、勤于学习能不断提高自身的能力与综合素质。在未来的工作中，我将以充沛的精力，刻苦钻研的精神来努力工作，稳定地提高自己的工作能力，与企业同步发展。</td>
+            </tr>
+            </table>
+
+          <!--教育经历-->
+          <table width="100%" border="0" cellpadding="0" cellspacing="0">
+            <tr>
+              <td class="td_title">教育经历</td>
+            </tr>
+                                    <tr>
+                <td class="td_center">
+                  <p class="dlP">
+                    2005-06 至 2008-06                  </p>
+                  <p class="dlP">
+                    <strong>上的法国红酒</strong>                     | <strong>快乐的感觉咖啡馆</strong>                     | <strong>中专</strong>                  </p>
+                  <p class="dlP">
+                    专业描述：电子商务专业是融计算机科学、市场营销学、管理学、法学和现代物流于一体的新型交叉学科。培养掌握计算机信息技术、市场营销、国际贸易、管理、法律和现代物流的基本理论及基础知识，具有利用网络开展商务活动的能力和利用计算机信息技术、现代物流方法改善企业管理方法，提高企业管理水平能力的创新型复合型电子商务高级专门人才。                  </p>
+              </td>
+            </tr>
+                      </table>
+
+        <!--培训经历-->
+        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td class="td_title">培训经历</td>
+          </tr>
+                              <tr>
+            <td class="td_center">2008-03 至 2013-03&nbsp;入桃花源&nbsp;45
+            <br />
+            说的广告费发</td>
+          </tr>
+                  </table>
+
+        <!--语言技能-->
+        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td class="td_title">语言技能</td>
+          </tr>
+
+          <tr>
+              <td class="td_center">法语：熟练</td>
+          </tr>
+                  </table>
+
+      <!--专业技术-->
+                         <table width="100%" border="0" cellpadding="0" cellspacing="0">
+                    <tr>
+                        <td class="td_title">专业技术</td>
+                    </tr>
+
+
+                    <tr>
+                        <td class="td_center">
+                        <!--专业技术-->
+                                                    <table width="100%"  style="line-height:24px;" border="0" cellpadding="0" cellspacing="0">
+                                                                <tr>
+                                    <td width="300">技能名称：擒拿</td><td>掌握程度：优秀</td>
+                                </tr>
+                                                           </table>
+                                                </td>
+                    </tr>
+                </table>
+                            <!--17979  增加作品展示 star-->
+                                <table width="100%" border="0" cellspacing="0" cellpadding="0" class="produtionshow" >
+                  <tr><td class="td_title">作品展示</td></tr>
+                                    <tr>
+                    <td>2008-03 至 2013-02</td>
+                  </tr>
+                  <tr>
+                    <td><strong>的负担</strong></td>
+                  </tr>
+                  <tr>
+                    <td>风格</td>
+                  </tr>
+                  <tr>
+                    <td><strong>作品展示：</strong><span class="font_color_hui">（点击以下链接可查看）</span></td>
+                  </tr>
+                  <tr>
+                    <td class="td_border">
+                    <table width="100%" border="0" cellspacing="0" cellpadding="0">
+                                          <tr>
+                        <td align="center" width="150">1.jpg:<a href="http://imgs.myjob.com/images/photo/201410/1413364413229705543e3abd7d847.jpg" class="font_color_blue">http://imgs.myjob.com/images/photo/201410/1413364413229705543e3abd7d847.jpg</a></td>
+                      </tr>
+                                         </table>
+                   </td>
+                  </tr>
+                                  </table>
+                                <!--17979  增加作品展示 end-->
+        <!--证书-->
+        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td class="td_title">证书</td>
+          </tr>
+                              <tr>
+            <td class="td_center">
+              <table width="100%" border="0" cellpadding="4" cellspacing="1">
+                <tr>
+                                    <td width="111">证书名称：</td>
+                  <td width="221">附睾结核</td>
+                                                      <td width="111">证书发布机构：</td>
+                  <td>风热无法</td>
+                                  </tr>
+                <tr>
+                                    <td width="111">获得证书时间：</td>
+                  <td>2008-03</td>
+                                                      <td width="111">获得证书成绩：</td>
+                  <td>99</td>
+                                  </tr>
+              </table>
+            </td>
+          </tr>
+                  </table>
+
+        <!--项目经验-->
+        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td class="td_title">项目经验</td>
+          </tr>
+                              <tr>
+            <td class="td_center">
+              <p class="dlP">
+                项目名称：反对苟富贵              </p>
+              <p class="dlP">
+                开始时间：2003-09&nbsp;&nbsp;结束时间：2012-02              </p>
+              <p class="dlP">
+                项目描述：该项目是为科辰公司建立的ERP系统，其中包括了生产、物料管理、人力资源等6个子系统，共20个功能模块；              </p>
+              <p class="dlP">
+                项目中的职责：1、客户需求调研；
+2、制定系统的需求规范；
+3、建立相应的商务需求和系统需求；
+4、和技术经理一起设计整个项目的各个功能模块；
+5、制定子系统的开发模型、测试方案和需求变更流程等；
+6、负责上线及交付事宜。              </p>
+            </td>
+          </tr>
+                  </table>
+
+        <!--联系方式-->
+        <table width="100%" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td class="td_title">联系方式</td>
+          </tr>
+          <tr>
+            <td>
+              <table width="100%" border="0" cellpadding="4" cellspacing="1">
+                <tr>
+                  <td width="11%">手&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;机：</td>
+                  <td>15074532148</td>
+                                    <td width="15%">电子邮箱：</td>
+                  <td width="35%">xiaoling_yc008@163.com</td>
+                                  </tr>
+
+                <tr>
+                                    <td width="12%">固&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;话：</td>
+                  <td width="35%">010-24578698</td>
+                                                      <td>QQ：</td>
+                  <td>2345</td>
+                                  </tr>
+
+                                <tr>
+                  <td>微博地址：</td>
+                  <td colspan="3">http://www.baidu.com</td>
+                </tr>
+                              </table>
+            </td>
+          </tr>
+        </table>
+              </td>
+    </tr>
+    <tr>
+      <td width="100%" colspan="2" class="resumeBottom">http://www.ChinaHR.com Email:feedback@corp.chinahr.com 客服热线：400 671 1818</td>
+    </tr>
+</table>
+
+
+<script type="text/javascript">window.onload=function(){var innerH=document.body.scrollHeight;innerH=navigator.appVersion.indexOf('MSIE')!=-1?innerH+70:innerH;window.parent.set_iframeH(innerH)};</script></body>
+</html>

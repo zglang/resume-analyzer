@@ -228,6 +228,7 @@ func ContainForRune(items []rune, item []rune) bool {
 }
 
 func ClearHtmlTag(content []rune) []rune {
+	//initBrTags()
 	text := make([]rune, 0)
 
 	stack := make([]rune, 0)
@@ -255,7 +256,7 @@ func ClearHtmlTag(content []rune) []rune {
 			}
 			stack = append(stack[:0],stack[len(stack):]...)
 
-			//fmt.Println("62 then=",len(stack))
+//			fmt.Println("isBr",isBr)
 			if isBr{
 				text = append(text, 10)
 			}else{

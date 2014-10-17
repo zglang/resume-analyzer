@@ -43,13 +43,26 @@ func (filter *Filter) Extract(text []rune, start int, curr int) (string, int, in
 		position++
 	}
 	fmt.Println("没有匹配到标签，就将最后内容全部作为标签内容")
+	if start>=len(text){
+		start=len(text)-1
+	}
 	return string(text[start:]), start, len(text)-1, true
 }
 
 func (filter *WordFilter) Extract(text []rune, start int, curr int) (string, int, int, bool) {
+	var previous rune
+	var behind rune
+	if start > 0{
+		previous = text[start - 1:start][0]
+	}else{
+		previous=10
+	}
+	if len(text) >curr+1{
+		behind = text[curr + 1:curr + 2][0]
+	}else{
+		behind=10
+	}
 
-	previous := text[start - 1:start][0]
-	behind := text[curr + 1:curr + 2][0]
 	if binSearch(spaceSymbol, previous) && binSearch(spaceSymbol, behind) {
 		return string(TrimSymbol(text[start:curr + 1])), start, curr+1, true
 	}else {

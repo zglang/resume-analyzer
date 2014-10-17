@@ -2,6 +2,7 @@ package analysis
 
 import (
 	"regexp"
+	"fmt"
 )
 
 var unNameTags []rune = []rune{9, 10, 13, 32, 124}
@@ -42,7 +43,7 @@ func matchName(position int, text []rune, cv *Resume) int {
 			isName := true
 			//fmt.Println(text[start:position])
 			name := string(text[start:position])
-			//fmt.Println("姓名:", name)
+			fmt.Println("姓名:", name)
 			if m, _ := regexp.MatchString("^[\\x{4e00}-\\x{9fa5}]+$", name); m {
 				findName := text[start:position]
 				for _, v := range excludeNames {
@@ -71,7 +72,6 @@ func matchDate(position int, text []rune, cv *Resume) int {
 	}
 	for position < len(text) {
 		start := position
-
 		i := 0
 		dtag:=0
 		for position < len(text) && binSearch(dateTags, text[position]) {
@@ -96,6 +96,7 @@ func matchDate(position int, text []rune, cv *Resume) int {
 		if i > 0 {
 			if position-start > 5 && position-start < 12 && dtag>0{
 				cv.Items = append(cv.Items, CVItem{TagList[2], string(text[start:position])})
+				fmt.Println("Date=",string(text[start:position]))
 				//break
 			}
 		}
@@ -104,7 +105,7 @@ func matchDate(position int, text []rune, cv *Resume) int {
 	return position
 }
 
-var excludeNames [][]rune = [][]rune{{20010, 20154}, {31616, 21382}, {25307, 32856}, {27714, 32844}}
+
 
 func matchMobile(position int, text []rune, cv *Resume) int {
 	if haveTag(8, cv.Items) {
@@ -151,6 +152,7 @@ func matchEmail(position int, text []rune, cv *Resume) int {
 	}
 	for position < len(text) {
 		if text[position] == 64{
+
 			start:=position-1
 			end:=position+1
 			for !binSearch(spaceSymbol, text[end]){

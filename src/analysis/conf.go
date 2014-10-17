@@ -17,4 +17,5 @@ func InitConf() {
 	initPosition()
 	initIndustry()
 	initBrTags()
+	initNotNameTag()
 }

@@ -17,6 +17,8 @@ var GroupProcessors []GroupProcessor
 
 var timeRegex []string = []string{`^\s*[\d]{2,4}[-./\s年]+[\d]{1,2}月?\s*[-到至]{1,4}\s*[\d]{2,4}[-./\s年]+[\d]{1,2}月?`,
 	`^\s*[\d]{2,4}[-./\s年]+[\d]{1,2}月?\s*[-到至]{1,4}\s*(?:(?:至今)|(?:今))`,
+	`^\s*[\d]{2,4}[-./\s年]+[\d]{1,2}[-./\s月]+[\d]{1,2}日?\s*[-到至]{1,4}\s*[\d]{2,4}[-./\s年]+[\d]{1,2}[-./\s月]+[\d]{1,2}日?`,
+	`^\s*[\d]{2,4}[-./\s年]+[\d]{1,2}[-./\s月]+[\d]{1,2}日?\s*[-到至]{1,4}\s*(?:(?:至今)|(?:今))`,
 	`^\s*[\d一二三四五六七八九十]{1,3}[-./\s月]+[\d]{2,4}\s*[-到至]{1,4}\s*[\d一二三四五六七八九十]{1,3}[./\s月]+[\d]{2,4}`,
 	`^\s*[\d一二三四五六七八九十]{1,3}[-./\s月]+[\d]{2,4}\s*[-到至]{1,4}\s*(?:(?:至今)|(?:今))`,
 	`^\s*[\d]{4}\s*[-到至]{1,4}\s*[\d]{4}年`,
@@ -133,6 +135,9 @@ func findCompany(start int, position int, content []rune) (string, int) {
 				break
 			}
 		}
+	}
+	if position - start==1{
+		return findCompany(position,position,content)
 	}
 	return string(content[start:position]), position
 }
