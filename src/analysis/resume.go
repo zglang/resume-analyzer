@@ -21,7 +21,9 @@ func Analysis(content string) Resume {
 	fmt.Println("++++++++++[start]+++++++++++")
 	codingBody := formatContent(ClearHtmlTag([]rune(content)))
 	position := 0
+	sexPosition:=0
 	var tags []Tag
+
 	for position < len(codingBody) {
 		character := codingBody[position]
 		if items, ok := TagMap[character]; ok {
@@ -30,12 +32,17 @@ func Analysis(content string) Resume {
 
 			if position, match = matchItems(position, codingBody, items, &tag); match {
 				tags = append(tags, tag)
+				if tag.id==1{
+					sexPosition=position
+					fmt.Println("tag.name=",tag.name,";sexPosition=",sexPosition)
+				}
 			}
 		}
 		position++
 	}
 
 	var cv Resume
+
 
 	for _, tag := range tags {
 
@@ -50,10 +57,14 @@ func Analysis(content string) Resume {
 			cv.Items = append(cv.Items, CVItem{tag.name, tag.content})
 		}
 	}
-	matchName(0, codingBody[:500], &cv)
-	matchMobile(0, codingBody[:500], &cv)
-	matchDate(0, codingBody[0:700], &cv)
-	matchEmail(0, codingBody[0:500], &cv)
+	if sexPosition>0{
+		matchName(0, codingBody[:sexPosition], &cv)
+	}else{
+		matchName(0, codingBody, &cv)
+	}
+	matchMobile(0, codingBody, &cv)
+	matchDate(0, codingBody[sexPosition:], &cv)
+	matchEmail(0, codingBody, &cv)
 	return cv
 }
 

@@ -24,7 +24,7 @@ func startWeb() {
 
 func devTest() {
 	analysis.InitConf()
-	resume := analysis.Analysis(analysis.Read("resumes/44.txt"))
+	resume := analysis.Analysis(analysis.Read("resumes/11.txt"))
 	fmt.Println(resume)
 //	fmt.Println([]rune("个人"))
 //	fmt.Println([]rune("简历"))
@@ -94,7 +94,7 @@ func main() {
 //	bb:=analysis.ClearHtmlTag([]rune(content))
 //	fmt.Println(string(bb))
 
-//	fmt.Println([]rune("()（）"))
+	fmt.Println([]rune("?？"))
 //	//{20010, 20154}, {31616, 21382}, {25307, 32856}, {27714, 32844}
 //	fmt.Println(string([]rune{31616, 21382,25307, 32856,27714, 32844}))
 	//fmt.Println(32>>7)

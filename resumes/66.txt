@@ -1,0 +1,52 @@
+<html><head><title></title><META http-equiv="Content-Type" content="text/html; charset=GB2312"></head><body>
+<!-- 2008-06-18添加 start-->
+ <table width="600" cellpadding="0" cellspacing="0" border="0">
+   <tr>
+	 <td align="right"><span style="font-size:18px;font-family:'宋体';color:#004da1;font-weight:bold;">智联招聘</span></td>
+   </tr>
+ </table>
+<!-- 2008-06-18添加 end-->
+<table width="600" cellpadding="0" cellspacing="0" border="0"><tr><td style="border:#d6d3ce 1px solid;">
+<table width="600" cellpadding="0" cellspacing="0" border="0" bgcolor="#ffffff">
+<tr><td><table width="580" align="center" cellpadding="0" cellspacing="0" border="0">
+		<tr><td colspan="3" height="10"></td></tr>
+		<tr><td valign="top" width="1%" nowrap="nowrap"><span style="font-size:40px;font-weight:bold;color:#000000;">&#31070;&#38889;&#20025;</span></td>
+		<td valign="top" align="right">男  | 1985
+		    年9月生   | 户口：贵州黔西南布依族苗族自治州 | 现居住于台湾-<br>
+
+					 <br>
+					</span>13241309734<br>
+				  E-mail: <a href='mailto:test092501@qq.com'>test092501@qq.com</a> </td><td width="1%" nowrap><div class="photo" style="display:;padding:0 5px 5px 5px;"><a href='http://my.zhaopin.com/pic/2014/10/4/6b6caccb-0a3f-49d9-a0d9-f44d13b1de88.jpg' target='_blank'><img src='http://my.zhaopin.com/pic/2014/10/4/6b6caccb-0a3f-49d9-a0d9-f44d13b1de88.jpg' border='0' width='70' height='90' style='vertical-align:middle'></a></div></td></tr>
+<tr><td colspan="3" height="10"></td></tr>
+		</table></td></tr>
+<tr><td style="border-top:2px #d6d3ce solid;">
+		<table width="580" align="center" cellpadding="0" cellspacing="0" border="0">
+
+
+		    <tr style="display:">
+			    <td><br><table width="580" cellpadding="2" cellspacing="0" border="0" bgcolor="#f6f7f8">
+				    <tr><td style="border:#e7e7e7 1px solid;">&nbsp;&nbsp;<span style="color:#8866FF;font-size:14px;">自我评价</span></td></tr>
+				    </table><br>
+				    <table width="580" cellpadding="0" cellspacing="0" border="0">
+				    <tr><td><div class='resume_p'>基督教的基督教</div><br><br><table width='100%' cellpadding='2' cellspacing='0' border='0' style='border-top:#000000 1px dotted;'><tr><td colspan='2' height='20'></td></tr><tr><td width='1%' nowrap='nowrap' align='right'>期望从事职业：</td><td>销售管理</td></tr><tr><td width='1%' nowrap='nowrap' align='right'>期望月薪：</td><td>面议</td></tr><td width='1%' align='right' nowrap='nowrap'>目前状况：</td><td>我目前在职，正考虑换个新环境（如有合适的工作机会，到岗时间一个月左右）</td></tr></table>	</td></tr>
+				    </table></td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</table></td></tr>
+</table>
+</td></tr>
+
+</table><br>
+</body></html>

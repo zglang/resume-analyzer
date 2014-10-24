@@ -60,6 +60,7 @@ func matchName(position int, text []rune, cv *Resume) int {
 		}
 		newLine = false
 
+
 	}
 	return position
 }
@@ -93,11 +94,12 @@ func matchDate(position int, text []rune, cv *Resume) int {
 			}
 
 		}
+
 		if i > 0 {
 			if position-start > 5 && position-start < 12 && dtag>0{
 				cv.Items = append(cv.Items, CVItem{TagList[2], string(text[start:position])})
 				fmt.Println("Date=",string(text[start:position]))
-				//break
+				break
 			}
 		}
 		position++
@@ -111,6 +113,8 @@ func matchMobile(position int, text []rune, cv *Resume) int {
 	if haveTag(8, cv.Items) {
 		return position
 	}
+
+	findCount:=0
 	for position < len(text) {
 		findNum := 0
 		start := position
@@ -133,12 +137,17 @@ func matchMobile(position int, text []rune, cv *Resume) int {
 			}
 			if position+1<len(text){
 				if text[position+1]<48 || text[position+1] > 57 {
+					findCount++
 					cv.Items = append(cv.Items, CVItem{TagList[8], string(text[start:position])})
 				}
 			}else{
+				findCount++
 				cv.Items = append(cv.Items, CVItem{TagList[8], string(text[start])})
 			}
 
+		}
+		if(findCount>2){
+			break
 		}
 		position++
 	}

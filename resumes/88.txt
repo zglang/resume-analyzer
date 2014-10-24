@@ -1,0 +1,287 @@
+
+<html><body>
+<table width='778' border='0' cellpadding='0' align='center'><tr><td style='width:85%'><table ><tr><td
+align='left' valign='top'  width='75px'><span style='height:10px;'>应聘职位：</span></td><td align='left'
+valign='top' class='blue1'>（兼职/实习）客户服务人员（北京-朝阳区）</td></tr><tr><td align='left'
+valign='top'  width='75px'><span style='height:10px;'>应聘公司：</span></td><td align='left' valign='top'
+class='blue1'>北京太智联合企业管理顾问有限公司</td></tr><tr><td align='left' valign='top'  width='75px'><span
+style='height:10px;'>投递时间：</span></td><td align='left' valign='top' class='blue1'>2014-10-
+20</td></tr><tr><td align='left' valign='top'  width='75px'><span style='height:10px;'>简历匹配度：
+</span></td><td><table><tr><td><div class='barp'><table cellspacing='0' cellpadding='0' border='0'
+style='width:56%' class='baro'><tbody><tr><td></td></tr></tbody></table></div></td><td><font
+color='#0D7D00'><b>56%</b></font></td></tr></table></td></tr></table></td><td><table><tr><td align='right'
+valign='top' class='blue1' style='padding-right:0px;'><img alt='前程无忧'
+src='http://img01.51jobcdn.com/im/2009/resumetemplate/logo.gif'></td></tr></table></td></tr></table>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312"/>
+</head>
+<body>
+<table width="778" border="0" cellpadding="0" align="center">
+<tr>
+<td>
+<table style="BORDER-TOP-WIDTH: 0px; BORDER-LEFT-WIDTH: 0px; BORDER-BOTTOM-WIDTH: 0px; MARGIN: 0px auto;
+BORDER-RIGHT-WIDTH: 0px" cellspacing="0" cellpadding="0" width="760" align="center" border="0">
+<tbody>
+<tr>
+<td style="BORDER: #93B0ED 2px solid;" valign="top" colspan="2">
+<table cellSpacing="0" cellpadding="0" width="760" align="center" border="0">
+<tbody>
+<tr>
+<td valign="top">
+<table style="BORDER: #3076BC 1px solid; PADDING-RIGHT: 0px; PADDING-LEFT: 8px; BACKGROUND: #F5FAFE;
+PADDING-BOTTOM: 0px; MARGIN: 8px auto;  LINE-HEIGHT: 22px; PADDING-TOP: 8px; " cellspacing="0"
+cellPadding="0" width="97%" align="center" border="0">
+<tbody>
+<tr>
+<td style="BORDER-BOTTOM: #88b4e0 1px dashed" height="30">
+<span style="FLOAT: right">
+<img height="1" src="http://img01.51jobcdn.com/im/2009/resumetemplate/space.gif" width="12" border="0"/>
+</span>
+<span style="FONT-SIZE: 25px; LINE-HEIGHT: 30px; HEIGHT: 30px">
+<strong>连鸿波</strong>
+<a target="_blank" href="http://my.51job.com/payservice/verify/introduce.php" onfocus="blur();" title="您未通
+过诚信认证，通过专业认证后将点亮该图标">
+<img src="http://img01.51jobcdn.com/im/2009/verify/ico_gou.gif" style="position:relative;top:4px"
+border="0"/>
+</a>
+</span>
+<img height="1" src="http://img01.51jobcdn.com/im/2009/resumetemplate/space.gif" width="15" border="0"/>
+</td>
+</tr>
+<tr>
+<td valign="top">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td height="26" colspan="4">
+<span class="blue1">
+<b>在读学生 | 男 | 23岁(1991年5月6日)
+
+					  </b>
+</span>
+</td>
+<td width="17%" rowspan="6" align="center" valign="middle">
+<img src="http://img01.51jobcdn.com/im/2009/resumetemplate/resume_match_manpic.gif" width="90" height="110"/>
+<span>
+
+(ID:318825981)
+										              </span>
+</td>
+</tr>
+<tr>
+<td width="10%" height="20">居住地：</td>
+<td width="42%" height="20">北京-石景山区</td>
+<td width="11%" height="20"/>
+<td width="20%" height="20"/>
+</tr>
+<tr>
+<td height="20">电　话：</td>
+<td height="20" colspan="3">13621010102（手机）
+							</td>
+</tr>
+<tr>
+<td height="20">E-mail：</td>
+<td height="20" colspan="3"><a href= "mailto:xiaoling_51013@163.com
+
+			   " class="blue1" >
+
+			xiaoling_51013@163.com
+
+			  </a>
+
+			</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+<table width="97%" border="0" align="center" cellpadding="0" cellspacing="0">
+<tr>
+<td width="45%" colspan="2">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="margin:8px auto;line-
+height:22px;padding:0 0 0 8px;">
+<tr>
+<td colspan="2">
+<span class="blue" style="font-size:14px;">
+<b>最近工作</b>
+</span>
+<span style="color:#676767;">
+<b>
+                          [ 应届生简历/无工作经验 ]
+                        </b>
+</span>
+</td>
+</tr>
+<tr>
+<td width="59">公　司：</td>
+<td width="230"/>
+</tr>
+<tr>
+<td>行　业：</td>
+<td/>
+</tr>
+<tr>
+<td>职　位：</td>
+<td/>
+</tr>
+</table>
+</td>
+<td width="43" align="center"/>
+<td width="49%" colspan="2">
+<table width="100%" border="0" cellpadding="0" cellspacing="0" style="margin:8px auto;line-
+height:22px;padding:0 0 0 10px;">
+<tr>
+<td colspan="2">
+<span class="blue" style="font-size:14px;">
+<b>最高学历</b>
+</span>
+</td>
+</tr>
+<tr>
+<td width="59">学　历：</td>
+<td width="230">初中</td>
+</tr>
+<tr>
+<td>专　业：</td>
+<td>规范多个</td>
+</tr>
+<tr>
+<td height="22">学　校：</td>
+<td>永年县中学</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<hr/>
+<table width="97%" border="0" align="center" cellpadding="0" cellspacing="0" style="margin:8px auto;line-
+height:20px;padding:0 0 0 8px;"/>
+<table width="97%" border="0" align="center" cellspacing="0" cellpadding="0"/>
+<table cellSpacing="0" cellPadding="0" width="97%" align="center" border="0">
+<tbody>
+<tr>
+<td class="cvtitle" vAlign="center" align="left">求职意向</td>
+</tr>
+<tr>
+<td vAlign="center" align="middle" height="4">
+<img height="4" src="http://img01.51jobcdn.com/im/2009/resumetemplate/line1_1.gif" width="100%"
+style="padding-left: 1px"/>
+</td>
+</tr>
+<tr>
+<td vAlign="center" align="left" height="10"/>
+</tr>
+<tr>
+<td vAlign="center" align="left">
+<table class="table_set" cellSpacing="0" cellPadding="0" width="100%" border="0">
+<tbody>
+<tr>
+<td class="text_left">
+
+					                          工作性质：
+
+<span class="text" style="padding-left:10px;">全职</span>
+</td>
+</tr>
+<tr>
+<td class="text_left">
+
+
+			期望月薪：
+
+
+<span class="text" style="padding-left:10px;">面议</span>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+<td vAlign="center" align="left" height="20"/>
+</tr>
+</tbody>
+</table>
+<table width="97%" border="0" align="center" cellspacing="0" cellpadding="0">
+<tr>
+<td align="left" valign="middle" class="cvtitle">教育经历</td>
+</tr>
+<tr>
+<td align="middle" valign="middle" height="4">
+<img src="http://img01.51jobcdn.com/im/2009/resumetemplate/line1_1.gif" width="100%" height="4"
+style="padding-left: 1px"/>
+</td>
+</tr>
+<tr>
+<td height="10" align="left" valign="middle"/>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="table_set">
+<tr>
+<td width="26%" class="text_left">2014
+      /3--至今</td>
+<td width="30%" class="text">永年县中学</td>
+<td width="30%" class="text">规范多个</td>
+<td width="14%" class="text">初中</td>
+</tr>
+<tr>
+<td id="Cur_Val" colspan="4" valign="top" height="30">撒地方梵蒂冈</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height="20" align="left" valign="middle"/>
+</tr>
+<tr>
+<td align="left" valign="middle" class="cvtitle">所获奖项</td>
+</tr>
+<tr>
+<td align="middle" valign="middle" height="4">
+<img src="http://img01.51jobcdn.com/im/2009/resumetemplate/line1_1.gif" width="100%" height="4"
+style="padding-left: 1px"/>
+</td>
+</tr>
+<tr>
+<td height="10" align="left" valign="middle"/>
+</tr>
+<tr>
+<td height="20" align="left" valign="middle">
+<table width="100%" border="0" cellspacing="0" cellpadding="0" class="table_set">
+<tr>
+<td width="33%" class="text_left">2014
+      /2</td>
+<td width="33%" class="text">更多</td>
+<td width="33%" class="text">撒旦法</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height="20" align="left" valign="middle"/>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+<tr style="HEIGHT: 10px">
+<td style="HEIGHT: 10px" colSpan="2"/>
+</tr>
+<tr>
+<td style="WIDTH: 100%; HEIGHT: 20px" align="middle" colSpan="2"/>
+</tr>
+</tbody>
+</table>
+</td>
+</tr>
+</table>
+</body>
+</html>
+
+<img src='http://ehire.51job.com/RVS/a.aspx?
+C=1845002&R=318825981&A=91633395&J=54264740&K=b2571401f43051b68bd5dc5abd8309e7'>
