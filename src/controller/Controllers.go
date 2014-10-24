@@ -9,6 +9,23 @@ import (
 	"html/template"
 )
 
+type ResultBody struct {
+	Message string
+}
+
+func ReloadController(w http.ResponseWriter, r *http.Request) {
+	initForm(r)
+	analysis.InitConf()
+	var text ResultBody = ResultBody{"重新加载成功"}
+	result, err := json.Marshal(text)
+	if err != nil {
+		fmt.Println("json err:", err)
+		return
+	}
+	w.Header().Add("Content-Type", "text/json; charset=utf-8")
+	fmt.Fprintf(w, string(result))
+}
+
 func AnalysisController(w http.ResponseWriter, r *http.Request) {
 	initForm(r)
 	content := r.Form["content"][0]
@@ -43,13 +60,10 @@ func ReadResumeController(w http.ResponseWriter, r *http.Request) {
 }
 
 func SubmitController(w http.ResponseWriter, r *http.Request) {
+	initForm(r)
 	content := analysis.Read("zhilian.txt")
 	t, _ := template.ParseFiles("gtpl/submit.gtpl")
 	t.Execute(w, content)
-}
-
-func initHeader(w http.ResponseWriter) {
-	//w.Header().Add("Content-Type","text/html; charset=utf-8")
 }
 
 func initForm(r *http.Request) {

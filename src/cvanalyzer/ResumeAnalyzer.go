@@ -15,6 +15,7 @@ func startWeb() {
 	http.HandleFunc("/analysis", controller.AnalysisController)
 	http.HandleFunc("/submit", controller.SubmitController)
 	http.HandleFunc("/resume", controller.ReadResumeController)
+	http.HandleFunc("/reload", controller.ReloadController)
 	fmt.Println("启动web服务...")
 	err := http.ListenAndServe(":9090", nil)
 	if err != nil {
@@ -75,8 +76,8 @@ func main() {
 	//time.Sleep(time.Duration(3) * time.Second)
 	//fmt.Println("++++++++++++")
 	//redisGet("wzg")
-	//startWeb()
-	devTest()
+	startWeb()
+	//devTest()
 //	fmt.Println(string([]rune{26377}))
 //	fmt.Println(string([]rune{32447,20256, 36755, 24037, 31243, 24072}))
 //	fmt.Println(string([]rune{32447, 20256, 36755, 24037, 31243, 24072}))
@@ -94,7 +95,7 @@ func main() {
 //	bb:=analysis.ClearHtmlTag([]rune(content))
 //	fmt.Println(string(bb))
 
-	fmt.Println([]rune("?？"))
+//	fmt.Println([]rune("?？"))
 //	//{20010, 20154}, {31616, 21382}, {25307, 32856}, {27714, 32844}
 //	fmt.Println(string([]rune{31616, 21382,25307, 32856,27714, 32844}))
 	//fmt.Println(32>>7)
